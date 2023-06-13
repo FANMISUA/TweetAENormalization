@@ -1,0 +1,2 @@
+command: python $program/SMM4H23ScoreTask5.py $input $output Normalization
+description: Program for evaluating Task 5
