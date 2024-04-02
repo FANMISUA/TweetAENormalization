@@ -1,3 +1,0 @@
--llt.asc is the MedDRA file where we used to annotate adverse drug events. The first three columns contain information about lower lever term id, text, and preferred term id, respectively.
-
-- To load llt.asc, plese refer the function "get_meddra_dict()" from evaluation scripts "SMM4H23ScoreTask5.py" 
