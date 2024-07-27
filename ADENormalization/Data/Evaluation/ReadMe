@@ -1,1 +1,0 @@
-python3 SMM4H24ScoreTask1_shared.py $path_to_prediction_file $path_to_gold_annotation_directory $path_to_output_directory 

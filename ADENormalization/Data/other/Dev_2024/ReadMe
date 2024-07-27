@@ -1,0 +1,3 @@
+-seen_concepts.txt contains all the unique preferred terms IDs from train set.
+
+-dev_submission.tsv are the submission file for the dev set. Each row of this file contains tweeter ID and all the ptIDs from that tweet.
